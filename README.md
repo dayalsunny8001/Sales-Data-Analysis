@@ -1,2 +1,3 @@
 # Sales-Data-Analysis
-This project is all about online sales analysis of a store. Before analysis, I have compiled some prerequisite steps like data cleaning, data preprocessing. Later I have compiled all the data and created interactive visualizations to understand sales and user behaviour.
+Project Objective: 
+The objective is to analyse the sales of the store named "Vrinda". Find the patterns and provide insights to the client to help them curate marketing campaigns and to improve sales.
