@@ -11,5 +11,7 @@ The objective is to analyse the sales of the store named "Vrinda". Find the patt
 7. Sales across different Channels.
 8. Highest Selling category.
 ## Dataset used: 
-- <a href="https://github.com/dayalsunny8001/Sales-Data-Analysis/commit/d631f2451c57fd79fa3decd182181383becea84f">Dataset </a> 
+- <a href="https://github.com/dayalsunny8001/Sales-Data-Analysis/commit/d631f2451c57fd79fa3decd182181383becea84f">Dataset </a>
+## Dashboard: 
+- <a href="https://github.com/dayalsunny8001/Sales-Data-Analysis/blob/main/Vrinda%20Store%20Sales%20Dashboard.png">View Dashboard </a>
 
