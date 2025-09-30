@@ -19,5 +19,5 @@ The objective is to analyse the sales of the store named "Vrinda". Find the patt
 2. Formatted the values based on data types.
 3. Data Bucketing.
 4. Finding patterns using Data exploration.
-5. Presenting the data on an interactive dashboard.
+5. Presenting the data on an interactive dashboard <a href="https://github.com/dayalsunny8001/Sales-Data-Analysis/blob/main/Vrinda%20Store%20Sales%20Dashboard.xlsx">view dashboard file </a>
 
