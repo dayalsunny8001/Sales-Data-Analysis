@@ -20,4 +20,11 @@ The objective is to analyse the sales of the store named "Vrinda". Find the patt
 3. Data Bucketing.
 4. Finding patterns using Data exploration.
 5. Presenting the data on an interactive dashboard <a href="https://github.com/dayalsunny8001/Sales-Data-Analysis/blob/main/Vrinda%20Store%20Sales%20Dashboard.xlsx">view dashboard file </a>
-
+## Insigths from data: 
+1. Women are more likely to purchase (~65%)
+2. Maharastra, Karnataka and Utter Pradesh are top 3 states (~35%)
+3. People with age group (30-49 years) are most buyers (~50%)
+4. Amazone, Flipkart and Myntra are maximum contributining channels (~80%)
+## Final Conclusion: 
+1. The company could plan their marketing campaigns around women of age around 30-49 years living in Maharastra, Karnatka and Utter Pradesh.
+2. They could provide more coupons/offers on channels like Amazon, Flipkart and  Myntra.
